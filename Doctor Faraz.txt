@@ -1,0 +1,5 @@
+				Welcome To Doctor Faraz (Surgeon) Appointment Booking Side				
+Please Enter Your Name :hvjbjhv
+Please Enter Your Age :21
+Please Enter Your Disease :jvjhbh
+Your Booking has been cancelled

@@ -1,0 +1,10 @@
+﻿  DoctorDetails.cpp
+  Appointment.cpp
+  Patient.cpp
+  Main.cpp
+C:\Users\Admin\Jazz Drive\Business Project Folder\OOP Projects\Doctor Booking Application\Doctor Booking Application\Main.cpp(63,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Jazz Drive\Business Project Folder\OOP Projects\Doctor Booking Application\Doctor Booking Application\Main.cpp(145,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Jazz Drive\Business Project Folder\OOP Projects\Doctor Booking Application\Doctor Booking Application\Main.cpp(227,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Jazz Drive\Business Project Folder\OOP Projects\Doctor Booking Application\Doctor Booking Application\Main.cpp(309,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Doctor Booking Application.vcxproj -> C:\Users\Admin\Jazz Drive\Business Project Folder\OOP Projects\Doctor Booking Application\x64\Debug\Doctor Booking Application.exe

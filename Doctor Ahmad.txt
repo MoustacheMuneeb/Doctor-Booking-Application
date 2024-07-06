@@ -1,0 +1,7 @@
+				Welcome To Doctor Ahmad (Child Specialist) Appointment Booking Side				
+Please Enter Your Name for Appointment :Ali
+Please Enter Your Age :20
+Please Enter Your Disease :Pnemonia
+Your Booking is Confirmed
+Time :6:15:20
+Doctor Fees is 11000

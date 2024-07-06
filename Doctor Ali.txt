@@ -1,0 +1,12 @@
+				Welcome To Doctor Ali (Physician) Appointment Booking Side				
+Please Enter Your Name for Appointment :Muneeb Nasir
+Enter Your Age :21
+Please Enter your disease :Typhoid
+Your Booking has not been placed
+				Welcome To Doctor Ali (Physician) Appointment Booking Side				
+Please Enter Your Name for Appointment :tfuygyuyu
+Enter Your Age :256
+Please Enter your disease :iuhkjjkjkb
+Your Booking is Confirmed
+Time :4:51:10
+Doctor Fees is 11000
